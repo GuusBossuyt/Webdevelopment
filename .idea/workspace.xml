@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42f5cd5-9d11-4df3-b687-0bc1b1b7eecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FhpSNBd0YECYRO2QwKaoYJ4I4z" />
   <component name="ProjectViewState">
@@ -54,7 +58,11 @@
       <option name="presentableId" value="Default" />
       <updated>1664954168156</updated>
       <workItem from="1664954169473" duration="3542000" />
-      <workItem from="1665318667374" duration="8160000" />
+      <workItem from="1665318667374" duration="8409000" />
+      <workItem from="1665559208646" duration="4602000" />
+      <workItem from="1665576825885" duration="613000" />
+      <workItem from="1665578406620" duration="1012000" />
+      <workItem from="1665861458685" duration="2369000" />
     </task>
     <servers />
   </component>
