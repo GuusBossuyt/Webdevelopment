@@ -1,4 +1,6 @@
-header, main, footer{
+header, main, footer,{
     font-family: Helvetica;
-    padding:
+}
+header, footer, education {
+    padding: 30px;
 }
