@@ -1,0 +1,8 @@
+a {
+    background-image: url(../images/napoleon.jpg);
+    background-position: center left;
+    background-attachment: fixed;
+    padding-left: 18px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

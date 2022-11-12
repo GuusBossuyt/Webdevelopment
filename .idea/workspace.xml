@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42f5cd5-9d11-4df3-b687-0bc1b1b7eecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo_5/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/Opdracht_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_6/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_6/opdracht_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_6/opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_6/opdracht_5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo_6/styles/opdracht_3.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_6/styles/opdracht_3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +48,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_7\styles" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_3" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="opdracht_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Webdevelopment/labo_7/opdracht_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.opdracht_1.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +77,10 @@
       <workItem from="1665578406620" duration="1012000" />
       <workItem from="1665861458685" duration="3258000" />
       <workItem from="1666711765699" duration="6235000" />
-      <workItem from="1666768078857" duration="1950000" />
+      <workItem from="1666768078857" duration="5583000" />
+      <workItem from="1667981326734" duration="4932000" />
+      <workItem from="1668281540053" duration="2446000" />
+      <workItem from="1668284018293" duration="3530000" />
     </task>
     <servers />
   </component>
