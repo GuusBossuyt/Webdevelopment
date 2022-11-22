@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42f5cd5-9d11-4df3-b687-0bc1b1b7eecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexibox/flexibox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/fonts/kumbh.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/fonts/kumbh.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/images/bg-pattern-bottom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/images/bg-pattern-card.svg" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/images/bg-pattern-card.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/images/bg-pattern-top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/images/bg-pattern-top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/images/image-victor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/images/image-victor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexibox/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexibox/flexbox/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\flexibox\flexbox" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\flexibox" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_7\styles" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_3" />
@@ -81,7 +88,7 @@
       <workItem from="1667981326734" duration="4932000" />
       <workItem from="1668281540053" duration="2446000" />
       <workItem from="1668284018293" duration="3749000" />
-      <workItem from="1669142086502" duration="2239000" />
+      <workItem from="1669142086502" duration="2633000" />
     </task>
     <servers />
   </component>
