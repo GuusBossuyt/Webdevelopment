@@ -4,8 +4,6 @@
     <list default="true" id="c42f5cd5-9d11-4df3-b687-0bc1b1b7eecf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\flexibox" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_7\styles" />
       <recent name="C:\Users\guusb\OneDrive\Bureaublad\Webdevelopment\labo_3" />
     </key>
@@ -82,7 +81,7 @@
       <workItem from="1667981326734" duration="4932000" />
       <workItem from="1668281540053" duration="2446000" />
       <workItem from="1668284018293" duration="3749000" />
-      <workItem from="1669142086502" duration="1550000" />
+      <workItem from="1669142086502" duration="2239000" />
     </task>
     <servers />
   </component>
